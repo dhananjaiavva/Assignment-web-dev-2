@@ -1,6 +1,3 @@
-Since your project has a clean "Glassmorphism" aesthetic and uses asynchronous JavaScript, your README should highlight the tech stack and the "no-dependency" nature of the build.
-
-Here is a professional, well-formatted `README.md` for your repository.
 
 -----
 
